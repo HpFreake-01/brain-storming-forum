@@ -1,0 +1,131 @@
+.container{
+    margin: 153px 10% 160px 10%;
+    width: 80%;
+    height:2050px;
+
+}
+.first_block_title{
+    text-align: center;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    color: #556AFE;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.first_block_text{
+    text-align: center;
+    margin-top: 52px;
+    width:100%;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+.first_block_description{
+    font-weight: normal;
+    margin-top: 52px;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+}
+.title_img img {
+    width: 552px;
+    height: 481px;
+}
+
+.items_container{
+   padding-top: 160px;
+   height: 900px;
+
+}
+.item {
+    margin-top: 60px;
+    padding-top: 40px;
+    width: 350px;
+    height: 383px;
+    background: rgba(255, 255, 255, 0.01);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    display:block;
+}
+.item_beetwen{
+    margin-top: 30px;
+    height: 490px;
+}
+.item img {
+    margin: auto;
+    display: block;
+    width: 120px;
+    height: 120px;
+}
+.item nav {
+    text-align: center;
+}
+
+.item_title{
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+.item_text{
+    width: 90%;
+    margin: 0 5% 0 5%;
+    padding-top: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ABABAB;
+}
+.item3 {
+    width: 380px;
+    height: 180px;
+    padding-top: 60px;
+    margin-bottom: 60px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 68px;
+    text-align: center;
+    color: #556AFE;
+}
+.item3 span {
+    font-style: italic;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 42px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.mission_title{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 65px;
+    line-height: 80px;
+    align-items: center;
+    color: #000000;
+}
+
+.mission_title span {
+    color: #5060FF;
+}
+
+.misssion_text{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.third_block{
+    padding-top: 200px;
+}

@@ -1,0 +1,76 @@
+.wrapper{
+    width: 100%;
+}
+.answerWrapper{
+    width: 70%;
+    min-height: 200px;
+    margin: 20px 15% 30px 15%;
+    padding: 40px;
+    background: #EBF4FF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.answerAbout {
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px 0 10px 0;
+}
+
+.postedBy{
+    font-weight: bold;
+    font-size: 18px;
+    color: #4D4D4D;;
+}
+.tag{
+    background-color: #FFEAFC;
+    min-width:65px;
+    height: 30px;
+    border-radius: 10px;
+    border: solid 1px silver;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10);
+    text-align: center;
+    float:right;
+}
+.tag nav{
+    color: #696668;
+    font-weight: 300;
+    font-size: 20px;
+}
+.description{
+    margin-top: 30px;
+    font-size: 15px;
+    color: #4D4D4D;
+    
+}
+.formWrapper{
+    width: 70%;
+    min-height: 200px;
+    margin: 50px 15% 30px 15%;
+    padding: 40px;
+    background: #FFEAFC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+.formInput{
+    width: 100%;
+    min-height: 50px;
+    border-radius: 15px;
+    padding: 5px 20px 5px 10px;
+    border:none;
+}
+.button{
+    margin-top: 20px;
+    border: none;
+    background: #8266FFD4;
+    color: white;
+    border-radius:10px;
+    width: 70px;
+    height: 35px;
+    float: right;
+}
+.hr{
+    width: 70%;
+    margin: 100px 15% 10px 15%;
+}
